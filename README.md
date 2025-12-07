@@ -73,3 +73,13 @@ Las relaciones permiten saber:
 
    ```bash
    git clone https://github.com/BautistaOjeda/BD-Gimnasio-Gymplus.git
+
+2. Abrir la base con SQLite o DB Browser for SQLite:
+   ```bash
+   sqlite3 BD_GIMNASIO.db
+
+## 🛠 Tecnologías utilizadas
+
+- SQLite
+- Modelado entidad–relación (DER)
+- Git y GitHub para versionado y publicación
